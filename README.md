@@ -8,5 +8,5 @@ What do I do? I solve problems using **data insights**! Currently, I work as a _
 
 Besides, I am studying artificial intelligence techniques and algorithms. I like to explore new technologies because "the joy of thinking and learning makes us think and learn even more." _(Aristotle)_   
 
-![leomaurodesenv's github stats](https://github-readme-stats.vercel.app/api?username=leomaurodesenv&hide=contribs,issues&line_height=21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&layout=compact&hide=php)](https://sourcerer.io/leomaurodesenv)
+![leomaurodesenv's github stats](https://github-readme-stats.vercel.app/api?username=leomaurodesenv&hide=contribs,issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&layout=compact&hide=php&title_color=007ec6&icon_color=007ec6)](https://sourcerer.io/leomaurodesenv)
