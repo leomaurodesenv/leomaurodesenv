@@ -7,3 +7,6 @@
 What do I do? I solve problems using **data insights**! Currently, I work as a _data analyst_ developing intelligent reports and business intelligence for internal and external stakeholders, as well as developing data-related products, acting as a _data product manager_.   
 
 Besides, I am studying artificial intelligence techniques and algorithms. I like to explore new technologies because "the joy of thinking and learning makes us think and learn even more." _(Aristotle)_   
+
+![leomaurodesenv's github stats](https://github-readme-stats.vercel.app/api?username=leomaurodesenv&hide=contribs,issues&line_height=21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&layout=compact&hide=php)](https://sourcerer.io/leomaurodesenv)
