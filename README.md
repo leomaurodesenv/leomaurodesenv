@@ -6,7 +6,7 @@
 
 What do I do? I solve problems using **data insights**! Currently, I work as a _data analyst_ developing intelligent reports and business intelligence for internal and external stakeholders, as well as developing data-related products, acting as a _data product manager_.   
 
-Teaching is my second passion. I was an intern in the Education Improvement Program for one year and a half, during the Master's degree. Now, I am a Tutor of the Master of Business Administration (MBA) in Data Science.
+Teaching is my second passion. I was an intern in the Education Improvement Program for one year and a half, during the Master's degree. Now, I am a Tutor in a Master of Business Administration (MBA) of Data Science.
 
 Besides, I am studying artificial intelligence techniques and algorithms. I like to explore new technologies because "the joy of thinking and learning makes us think and learn even more." _(Aristotle)_   
 
