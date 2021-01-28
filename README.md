@@ -1,6 +1,6 @@
 ## Leonardo Mauro 💻 
 [![Website Badge](https://img.shields.io/badge/website-portfolio-blue?style=flat-square)](http://leonardomauro.com/portfolio/)
-[![Linkedin Badge](https://img.shields.io/badge/-LeonardoMauro-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mauro/)
+[![Linkedin Badge](https://img.shields.io/badge/-LeonardoMauro-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomaurodesenv/)
 [![Telegram Badge](https://img.shields.io/badge/-leomaurodesenv-2CA5E0?style=flat-square&logo=telegram)](https://t.me/leomaurodesenv)
 
 What do I do? I solve problems using data. I currently work as a Data Scientist developing Artificial Intelligence solutions to solve complex problems and improve customer experience. I also experienced developing business intelligence reports, and developing data-related products, acting as a data product manager.   
