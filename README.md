@@ -5,7 +5,7 @@
 
 What do I do? I solve problems using data. I currently work as a Data Scientist developing Artificial Intelligence solutions to solve complex problems and improve customer experience. I also experienced developing business intelligence reports, and developing data-related products, acting as a data product manager.   
 
-Besides, I am passionate about teaching. I had one year and a half as an teacher assistant during my Master's degree. Now, I am a Tutor in a Master of Business Administration (MBA) of Data Science.   
+Besides, I am passionate about teaching. I had worked as an Adjunct Professor when I did my Master's degree. Currently, I am acting as a Tutor of a Master of Business Administration (MBA) of Data Science; and Professor of Data Science and Artificial Intelligence (graduate courses).   
 
 Finally, I am studying artificial intelligence techniques and algorithms. I like to explore new technologies because "the joy of thinking and learning makes us think and learn even more." _(Aristotle)_   
 
