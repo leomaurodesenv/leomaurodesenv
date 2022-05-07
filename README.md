@@ -10,4 +10,3 @@ Besides, I am passionate about teaching. I had worked as an Adjunct Professor wh
 Finally, I am always studying new artificial intelligence techniques, because "the joy of thinking and learning makes us think and learn even more" _(Aristotle)_.   
 
 [![leomaurodesenv's github stats](https://github-readme-stats.vercel.app/api?username=leomaurodesenv&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/leomaurodesenv)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&layout=compact&langs_count=6&hide=php,css&title_color=007ec6&icon_color=007ec6)](https://profile.codersrank.io/user/leomaurodesenv/)
