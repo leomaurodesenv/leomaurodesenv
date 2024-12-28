@@ -34,13 +34,18 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
 <div class="badges-githubstats">
   <p align="center">
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&theme=tokyonight&layout=compact">-->
-    <a href="https://github.com/leomaurodesenv#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&show_icons=true&hide_border=true&count_private=true" alt="leomaurodesenv's Stats" height="165">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&hide_border=true" alt="leomaurodesenv's Streak" height="165">
+    <!--https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/-->
+    <a href="https://github.com/leomaurodesenv">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&theme=prussian&show_icons=true&hide_border=true&count_private=true">
+     <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&show_icons=true&hide_border=true&count_private=true" alt="leomaurodesenv's Stats" height="165">
+    </picture>
     </a>
-    <a href="https://github.com/leomaurodesenv#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="leomaurodesenv's Stats" height="165">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&theme=prussian&hide_border=true" alt="leomaurodesenv's Streak" height="165">
+    <a href="https://github.com/leomaurodesenv">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&theme=prussian&hide_border=true">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&hide_border=true" alt="leomaurodesenv's Streak" height="165">
+    </picture>
     </a>
   </p>
 </div>
