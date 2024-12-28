@@ -22,3 +22,17 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
 - [QASports: A Question Answering Dataset about Sports, 2023](https://doi.org/10.5753/dsw.2023.233602).
 - [SMMnet: A Social Network of Games Dataset, 2019](https://repositorio.usp.br/item/002984641).
 - [Detecting Influencers in Very Large Social Networks of Games, 2019](https://doi.org/10.5220/0007728200930103).
+
+### 📈 GitHub Stats
+<div class="badges-githubstats">
+  <p align="center">
+    <a href="https://github.com/leomaurodesenv#gh-light-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&show_icons=true&hide_border=true&count_private=true" alt="leomaurodesenv's Stats" height="165">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&hide_border=true" alt="leomaurodesenv's Streak" height="165">
+    </a>
+    <a href="https://github.com/leomaurodesenv#gh-dark-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="leomaurodesenv's Stats" height="165">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&theme=prussian&hide_border=true" alt="leomaurodesenv's Streak" height="165">
+    </a>
+  </p>
+</div>
