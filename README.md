@@ -7,7 +7,14 @@
 As a Principal MLOps Engineer, I automate and productize data science projects to enhance customer experience, while leading and mentoring a team. Besides, I am passionate about teaching, acting as an adjunct professor during my Master’s and PhD programs, and now teaching graduate courses about data science. Committed to continuous learning, I aim to help the next generation of data professionals grow while further advancing in the AI field. As Aristotle said, "The joy of thinking and learning makes us think and learn even more."
 
 ### 🥇 Featured Projects
-- 
+- Docker, FastAPI, Dependabot - [leomaurodesenv/data-science-api-framework](https://github.com/leomaurodesenv/data-science-api-framework)
+- Databricks, Surprise, RecSys - [leomaurodesenv/databricks-recommendation-system](https://github.com/leomaurodesenv/databricks-recommendation-system)
+- DVC, Luigi, NLP - [leomaurodesenv/dvc-luigi-nlp](https://github.com/leomaurodesenv/dvc-luigi-nlp)
+- Kedro, Sklearn, NLP - [leomaurodesenv/kedro-sklearn-nlp](https://github.com/leomaurodesenv/kedro-sklearn-nlp)
+- Streamlit, hugging space - [leomaurodesenv/qasports-dataset-website](https://github.com/leomaurodesenv/qasports-dataset-website)
+- Datasets, Web Scrappings - [leomaurodesenv/qasports-dataset-scripts](https://github.com/leomaurodesenv/qasports-dataset-scripts)
+- Linux Gaming - [leomaurodesenv/cemu-linux](https://github.com/leomaurodesenv/cemu-linux)
+- List of Game Datasets - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets)
 
 ### 📑 Latest Blogs
 - [Driving Innovation: Leveraging Machine Learning Platforms](https://medium.com/@leomaurodesenv/driving-innovation-leveraging-machine-learning-platforms-f428ea34c3ab).
