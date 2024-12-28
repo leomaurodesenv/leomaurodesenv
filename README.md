@@ -26,6 +26,7 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
 ### 📈 GitHub Stats
 <div class="badges-githubstats">
   <p align="center">
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&theme=tokyonight&layout=compact">-->
     <a href="https://github.com/leomaurodesenv#gh-light-mode-only">
       <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&show_icons=true&hide_border=true&count_private=true" alt="leomaurodesenv's Stats" height="165">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&hide_border=true" alt="leomaurodesenv's Streak" height="165">
