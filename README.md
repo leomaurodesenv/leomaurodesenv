@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Mauro-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomaurodesenv/)
 [![Telegram Badge](https://img.shields.io/badge/-leomaurodesenv-gray?style=flat-square&logo=telegram)](https://t.me/leomaurodesenv)
 
-As a Principal MLOps Engineer, I automate and productize data science projects to enhance customer experience, while leading and mentoring a team. Besides, I am passionate about teaching, acting as an adjunct professor during my Master’s and PhD programs, and now teaching graduate courses about data science. Committed to continuous learning, I aim to help the next generation of data professionals grow while further advancing in the AI field. As Aristotle said, "The joy of thinking and learning makes us think and learn even more."
+As a Principal MLOps Engineer, I automate and productize data science projects to enhance customer experience, while leading and mentoring teams. Besides, I am passionate about teaching, acted as an adjunct professor during my Master’s and PhD programs, and now teach graduate courses about data science. Committed to continuous learning, I aim to help the next generation of data professionals grow while further advancing in the AI field. As Aristotle said, "The joy of thinking and learning makes us think and learn even more."
 
 ### 🥇 Featured Projects
 - Docker, FastAPI, Dependabot - [leomaurodesenv/data-science-api-framework](https://github.com/leomaurodesenv/data-science-api-framework)
