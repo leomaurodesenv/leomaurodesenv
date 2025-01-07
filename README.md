@@ -44,8 +44,8 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
     </a>
     <a href="https://github.com/leomaurodesenv">
     <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&theme=prussian&hide_border=true">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&hide_border=true" alt="leomaurodesenv's Streak" height="165">
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&theme=prussian&hide_border=true&mode=weekly">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&hide_border=true&mode=weekly" alt="leomaurodesenv's Streak" height="165">
     </picture>
     </a>
   </p>
