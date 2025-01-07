@@ -7,14 +7,15 @@
 As a Principal MLOps Engineer, I automate and productize data science projects to enhance customer experience, while leading and mentoring teams. Besides, I am passionate about teaching, acted as an adjunct professor during my Master’s and PhD programs, and now teach graduate courses about data science. Committed to continuous learning, I aim to help the next generation of data professionals grow while further advancing in the AI field. As Aristotle said, "The joy of thinking and learning makes us think and learn even more."
 
 ### 🥇 Featured Projects
-- Docker, FastAPI, Dependabot - [leomaurodesenv/data-science-api-framework](https://github.com/leomaurodesenv/data-science-api-framework)
-- Databricks, Surprise, RecSys - [leomaurodesenv/databricks-recommendation-system](https://github.com/leomaurodesenv/databricks-recommendation-system)
+- Awesome Datasets - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets)
+- Linux Gaming - [leomaurodesenv/cemu-linux](https://github.com/leomaurodesenv/cemu-linux)
 - DVC, Luigi, NLP - [leomaurodesenv/dvc-luigi-nlp](https://github.com/leomaurodesenv/dvc-luigi-nlp)
 - Kedro, Sklearn, NLP - [leomaurodesenv/kedro-sklearn-nlp](https://github.com/leomaurodesenv/kedro-sklearn-nlp)
+- Docker, FastAPI, Dependabot - [leomaurodesenv/data-science-api-framework](https://github.com/leomaurodesenv/data-science-api-framework)
+- Databricks, Surprise, RecSys - [leomaurodesenv/databricks-recommendation-system](https://github.com/leomaurodesenv/databricks-recommendation-system)
 - Streamlit, hugging space - [leomaurodesenv/qasports-dataset-website](https://github.com/leomaurodesenv/qasports-dataset-website)
 - Datasets, Web Scrappings - [leomaurodesenv/qasports-dataset-scripts](https://github.com/leomaurodesenv/qasports-dataset-scripts)
-- Linux Gaming - [leomaurodesenv/cemu-linux](https://github.com/leomaurodesenv/cemu-linux)
-- List of Game Datasets - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets)
+- Microempreendedor Individual (pt-br) - [leomaurodesenv/mei-sao-carlos](https://github.com/leomaurodesenv/mei-sao-carlos)
 
 ### 📑 Latest Blogs
 - [Driving Innovation: Leveraging Machine Learning Platforms](https://medium.com/@leomaurodesenv/driving-innovation-leveraging-machine-learning-platforms-f428ea34c3ab).
