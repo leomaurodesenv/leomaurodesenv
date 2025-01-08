@@ -34,19 +34,24 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
 ### 📈 GitHub Stats
 <div class="badges-githubstats">
   <p align="center">
-    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&theme=tokyonight&layout=compact">-->
     <!--https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/-->
     <a href="https://github.com/leomaurodesenv">
     <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&theme=prussian&show_icons=true&hide_border=true&count_private=true">
-     <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&show_icons=true&hide_border=true&count_private=true" alt="leomaurodesenv's Stats" height="165">
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&theme=prussian&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
+     <img src="https://github-readme-stats.vercel.app/api?username=leomaurodesenv&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="leomaurodesenv's Stats" height="165">
     </picture>
     </a>
     <a href="https://github.com/leomaurodesenv">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&layout=compact&theme=prussian&hide_border=true&langs_count=6&card_width=320">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomaurodesenv&layout=compact&hide_border=true&langs_count=6&card_width=320" alt="leomaurodesenv's Top Langs" height="165">
+    </picture>
+    </a>
+    <!--<a href="https://github.com/leomaurodesenv">
     <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&theme=prussian&hide_border=true&mode=weekly">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomaurodesenv&hide_border=true&mode=weekly" alt="leomaurodesenv's Streak" height="165">
     </picture>
-    </a>
+    </a>-->
   </p>
 </div>
