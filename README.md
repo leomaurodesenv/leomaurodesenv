@@ -15,6 +15,7 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
 - Databricks, Surprise, RecSys - [leomaurodesenv/databricks-recommendation-system](https://github.com/leomaurodesenv/databricks-recommendation-system)
 - Streamlit, hugging space - [leomaurodesenv/qasports-dataset-website](https://github.com/leomaurodesenv/qasports-dataset-website)
 - Datasets, Web Scrappings - [leomaurodesenv/qasports-dataset-scripts](https://github.com/leomaurodesenv/qasports-dataset-scripts)
+- Model Context Protocol (MCP) server - [leomaurodesenv/mcp-sports-nlp](https://github.com/leomaurodesenv/mcp-sports-nlp)
 - Microempreendedor Individual (pt-br) - [leomaurodesenv/mei-sao-carlos](https://github.com/leomaurodesenv/mei-sao-carlos)
 
 ### 📑 Latest Blogs
