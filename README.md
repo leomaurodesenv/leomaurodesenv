@@ -12,6 +12,7 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
 - DVC, Luigi, NLP - [leomaurodesenv/dvc-luigi-nlp](https://github.com/leomaurodesenv/dvc-luigi-nlp)
 - Kedro, Sklearn, NLP - [leomaurodesenv/kedro-sklearn-nlp](https://github.com/leomaurodesenv/kedro-sklearn-nlp)
 - Docker, FastAPI, Dependabot - [leomaurodesenv/data-science-api-framework](https://github.com/leomaurodesenv/data-science-api-framework)
+- Dataset Sampling, Statistics - [leomaurodesenv/scikit-sampling](https://github.com/leomaurodesenv/scikit-sampling)
 - Databricks, Surprise, RecSys - [leomaurodesenv/databricks-recommendation-system](https://github.com/leomaurodesenv/databricks-recommendation-system)
 - Streamlit, hugging space - [leomaurodesenv/qasports-dataset-website](https://github.com/leomaurodesenv/qasports-dataset-website)
 - Datasets, Web Scrappings - [leomaurodesenv/qasports-dataset-scripts](https://github.com/leomaurodesenv/qasports-dataset-scripts)
