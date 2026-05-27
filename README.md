@@ -27,11 +27,11 @@ As a Principal MLOps Engineer, I automate and productize data science projects t
 - [Comparing AutoML Tools in Titanic Dataset - Machine Learning](https://medium.com/wearesinch/comparing-automl-tools-in-titanic-dataset-machine-learning-87ae3b23228a)
 
 ### 🤓 Scientific Research
+- [Safeguarding Big Data Question-Answering Systems with a Two-Layer Input Guardrails, 2026](https://doi.org/10.5220/0014692300004018)
 - [Modeling and Analyzing Social Networks of Games, 2025](https://doi.org/10.1016/j.eswa.2024.125449)
 - [BigQA: A Software Reference Architecture for Big Data Question Answering Systems, 2024](https://doi.org/10.1007/978-3-031-64748-2_3)
 - [QASports: A Question Answering Dataset about Sports, 2023](https://doi.org/10.5753/dsw.2023.233602)
 - [SMMnet: A Social Network of Games Dataset, 2019](https://repositorio.usp.br/item/002984641)
-- [Detecting Influencers in Very Large Social Networks of Games, 2019](https://doi.org/10.5220/0007728200930103)
 
 ### 📈 GitHub Stats
 <div class="badges-githubstats">
